@@ -2,7 +2,7 @@
 
 Nesse repositório está o tutorial de como anotar os documentos do Diário Oficial do Distrito Federal (DODF) de acordo com os requisitos do Tribunal de Contas do Distrito Federal (TCDF).
 
-A ferramenta usada para realizar as anotações será o [NidoTat](http://nido.cic.unb.br/), um fork do [TeamTat](https://www.teamtat.org/). Essa é uma ferramenta online para anotação que permite que várias pessoas anotem e revisem um mesmo documento facilitando a geração de uma base de dados padrão ouro.
+A ferramenta usada para realizar as anotações será o NidoTat, um fork do [TeamTat](https://www.teamtat.org/). Essa é uma ferramenta online para anotação que permite que várias pessoas anotem e revisem um mesmo documento facilitando a geração de uma base de dados padrão ouro.
 
 Algumas funcionalidades foram incluídas no NidoTat para melhor atender às necessidades do projeto [KnEDle](https://unb-knedle.github.io/nido.html). Dentre elas, constam alguns atalhos de teclado, cujos valores padrão são descritos na tabela abaixo:
 
@@ -36,7 +36,7 @@ Vamos começar!
 
 Primeiramente, é fornecida uma URL única para o anotador. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
 
-Ao acessar a URL, o anotador é direcionado para a página de perfil de usuário do TeamTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
+Ao acessar a URL, o anotador é direcionado para a página de perfil de usuário do NidoTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
 
 ![alt text](imagens/profile.PNG "Perfil de usuário")
 
@@ -50,7 +50,7 @@ Os rótulos usados para a anotação estão diponíveis na aba "Types".
 
 Vamos começar a anotar!
 
-Para encontrar os atos a serem anotdados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Este tutorial mostra a anotação de um ato de exoneração como exemplo, então será pesquisada a palavra "exonerar". A pesquisa também indicará quantos atos desse tipo existem no documento.
+Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Este tutorial mostra a anotação de um ato de exoneração como exemplo, então será pesquisada a palavra "exonerar". A pesquisa também indicará quantos atos desse tipo existem no documento.
 
 ![alt text](imagens/ctrlF.PNG "Busca Global")
 
