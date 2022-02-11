@@ -10,7 +10,7 @@ As entidades que deverão ser identificadas são:
 
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
-(1) | orgao_licitante | Órgão Licitante | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.MD)
+(1) | orgao_licitante | Órgão Licitante | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (2) | numero_licitacao | Número da Licitação | pode aparecer duas vezes na publicação (marcar todas as vezes)
 (3) | modalidade_licitacao | Modalidade da Licitação | Anotar conforme os tipos: "Concorrência", "Tomada de Preços", "Pregão Eletrônico", "Pregão Presencial", "Credenciamento", "RDC" etc. Pode aparecer duas vezes na publicação
 (4) | processo_gdf | Processo no GDF | anotar somente o código numérico
