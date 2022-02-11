@@ -21,7 +21,7 @@ ID | Label | Entidade (descrição)  | Observação
 ### Exemplos de atos de aviso de suspensão de licitação
 
 AVISO DE SUSPENSÃO<br>
-**CONCORRÊNCIA[3]** Nº **01/2019[3]**<br>
+**CONCORRÊNCIA[3]** Nº **01/2019[2]**<br>
 CONCORRÊNCIA Nº: **001/2019-SECOM[2]**<br>
 Processo nº: **04000-00000285/2019-85[4]**. O Presidente da Comissão Especial de Licitação da **Secretaria de Estado de Comunicação[1]** torna público para conhecimento dos interessados, que foi SUSPENSA a sessão de abertura da **CONCORRÊNCIA[3]** Nº **001/2019[2]**, objetivando a **obtenção de propostas para a contratação de serviços de publicidade, a serem prestados por 03 (três) agências de propaganda, com o objetivo de atender os Órgãos da Administração Direta do Governo do Distrito Federal, conforme prevê o artigo 22 do decreto nº 39.610, de 1º de janeiro de 2019[5]**, cuja abertura estava prevista para ocorrer no dia 22 de julho de 2019, tendo em vista questionamentos feitos por Agências de Publicidade e Propaganda que merecem análise mais detalhada. Os questionamentos podem ocasionar adequações no Briefing e ajustes no edital que podem afetar na elaboração das propostas das Agências. Comunica ainda que convocará nova data a ser publicada na forma legal.<br>
 **MICHEL ALVES DOS SANTOS[7]**
