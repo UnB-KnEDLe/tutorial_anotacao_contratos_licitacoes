@@ -12,20 +12,20 @@ As entidades que deverão ser identificadas são:
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
 (1) | numero_convenio | Número do Convênio | Número do Ajuste | anotar somente o código alfanumérico
-(2) | orgao_concedente | Nome do Órgão Concedente | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.MD)
+(2) | orgao_concedente | Nome do Órgão Concedente | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (3) | cnpj_orgao_concedente | CNPJ do Órgão Concedente | anotar somente o número
 (4) | entidade_convenente | Nome da Entidade Convenente | anotar somente o número
 (5) | cnpj_entidade_convenente | CNPJ da Entidade Convenente | anotar somente o número
 (6) | processo_gdf | Número do Processo do GDF | anotar somente o número
 (7) | objeto_convenio | Objeto do Convênio | anotar toda a sentença até o ponto final
-(8) | valor_convenio | Valor do Convênio | marcar apenas o número real
+(8) | valor_convenio | Valor do Convênio | anotar apenas o número real
 (9) | vigencia_convenio | Vigência do Convênio |	anotar toda a sentença até o ponto final
 (10) | data_assinatura_convenio | Data de Assinatura do Convênio |	-
 (11) | unidade_orcamentaria | Unidade Orçamentária (UO) | aparece em Dotação Orçamentária. Anotar somente o número
 (12) | programa_trabalho | Programa de Trabalho (PT) | aparece em Dotação Orçamentária. Anotar somente o número
 (13) | fonte_recurso | Fonte de Recurso (FR) |	aparece em Dotação Orçamentária. Anotar somente o número
 (14) | natureza_despesa | Natureza da Despesa (ND) |	aparece em Dotação Orçamentária. Anotar somente o número
-(15) | nota_empenho | Nota de Empenho | Anotar somente o código alfanumérico
+(15) | nota_empenho | Nota de Empenho | anotar somente o código alfanumérico
 (16) | nome_responsavel | Nome do Responsável |	-
 
 
