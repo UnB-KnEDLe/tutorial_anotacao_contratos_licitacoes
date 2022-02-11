@@ -11,11 +11,11 @@ As entidades que deverão ser identificadas são:
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
 (1) | orgao_licitante | Órgão Licitante | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
-(2) | numero_licitacao | Número da Licitação | pode aparecer duas vezes na publicação (marcar todas as vezes)
-(3) | modalidade_licitacao | Modalidade da Licitação | Anotar conforme os tipos: "Concorrência", "Tomada de Preços", "Pregão Eletrônico", "Pregão Presencial", "Credenciamento", "RDC" etc. Pode aparecer duas vezes na publicação
+(2) | numero_licitacao | Número da Licitação | anotar todo o código alfanumérico. Por exemplo, "11/2021" ou "01/2020-CEB". Pode aparecer mais do que uma vez na publicação (anotar todas as vezes)
+(3) | modalidade_licitacao | Modalidade da Licitação | anotar conforme os tipos: "Concorrência", "Tomada de Preços", "Pregão Eletrônico", "Pregão Presencial", "Credenciamento", "RDC" etc. Pode aparecer duas vezes na publicação
 (4) | processo_gdf | Processo no GDF | anotar somente o código numérico
 (5) | objeto_licitacao | Objeto da Licitação | anotar toda a sentença do objeto até o ponto final "." ou ponto-e-vírgula ";"
-(6) | decisao_tcdf | Decisão do TCDF que determinou a suspensão | Marcação obrigatória quando é mencionada
+(6) | decisao_tcdf | Decisão do TCDF que determinou a suspensão | anotação obrigatória quando é mencionada
 (7) | nome_responsavel | Nome do Responsável pelo Ato | -
 
 ### Exemplos de atos de aviso de suspensão de licitação
