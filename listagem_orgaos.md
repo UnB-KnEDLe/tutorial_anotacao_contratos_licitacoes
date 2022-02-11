@@ -2,7 +2,7 @@
 
 **Atenção:** essa lista serve apenas para propósitos de anotação de textos cujos atos apresentem as entidades:
 - **orgao**
-- **orgao_entidade_licitante**
+- **orgao_licitante**
 - **orgao_contratante** 
 - **orgao_concedente** 
 
