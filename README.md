@@ -1,10 +1,21 @@
 # Tutorial de Anotação: Contratos e Licitações
 
-Nesse repositório está o tutorial de como anotar os documentos do Diário Oficial do Distrito Federal (DODF) de acordo com os requisitos do Tribunal de Contas do Distrito Federal (TCDF).
+Esse repositório descreve o tutorial de anotação em publicações de contratos e licitações presentes nas edições (documentos) do Diário Oficial do Distrito Federal (DODF).
+
+## Autores
+
+Responsáveis pela elaboração e revisão desse tutorial:
+
+- Vinícius R. P. Borges
+- Manuela M. C. de Souza
+- Tatiana F. Pereira
+- Vitor Vasconcelos
+
+## Ferramenta NidoTat
 
 A ferramenta usada para realizar as anotações será o NidoTat, um fork do [TeamTat](https://www.teamtat.org/). Essa é uma ferramenta online para anotação que permite que várias pessoas anotem e revisem um mesmo documento facilitando a geração de uma base de dados padrão ouro.
 
-Algumas funcionalidades foram incluídas no NidoTat para melhor atender às necessidades do projeto [KnEDle](https://unb-knedle.github.io/nido.html). Dentre elas, constam alguns atalhos de teclado, cujos valores padrão são descritos na tabela abaixo:
+Algumas funcionalidades foram incluídas no NidoTat para melhor atender às necessidades do projeto [KnEDLe](https://unb-knedle.github.io/nido.html). Dentre elas, constam alguns atalhos de teclado, cujos valores padrão são descritos na tabela abaixo:
 
 Função | Tecla
 ------- | -------
@@ -34,7 +45,7 @@ A anotação dos documentos do DODF será feita a nível de atos de entidades. O
 
 Vamos começar!
 
-Primeiramente, é fornecida uma URL única para o anotador. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
+Primeiramente, você deve pegar sua URL para acesso ao NidoTat. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
 
 Ao acessar a URL, o anotador é direcionado para a página de perfil de usuário do NidoTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
 
