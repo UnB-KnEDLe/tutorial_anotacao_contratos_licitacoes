@@ -11,7 +11,7 @@ As entidades que deverão ser identificadas são:
 
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
-(1) | numero_convenio | Número do Convênio | Número do Ajuste | anotar somente o código alfanumérico
+(1) | numero_convenio | Número do Convênio | anotar somente o código alfanumérico
 (2) | orgao_concedente | Nome do Órgão Concedente | para encontrar e anotar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (3) | cnpj_orgao_concedente | CNPJ do Órgão Concedente | anotar somente o número
 (4) | entidade_convenente | Nome da Entidade Convenente | anotar somente o número
