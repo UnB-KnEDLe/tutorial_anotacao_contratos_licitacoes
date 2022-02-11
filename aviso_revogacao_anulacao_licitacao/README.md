@@ -12,7 +12,7 @@ As entidades que deverão ser identificadas são:
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
 (1) | numero_licitacao | Número da Licitação | anotar todo o código alfanumérico. Por exemplo, "11/2021" ou "01/2020-CEB"
-(2) | orgao_licitante | Órgão Licitante | Para encontrar e marcar o órgão, consulte a lista [aqui](../listagem_orgaos.MD)
+(2) | orgao_licitante | Órgão Licitante | Para encontrar e marcar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (3) | modalidade_licitacao | Modalidade de Licitação | Anotar conforme os tipos: "Concorrência", "Tomada de Preços", "Pregão Eletrônico", "Pregão Presencial", "Credenciamento", "RDC" etc
 (4) | identificacao_ocorrencia | Identificação da Ocorrência | A anotação está relacionada com revogação (por exemplo: "revogar", "revogou" etc) ou anulação (ou por exemplo: "anular", "anulou" etc)
 (5) | processo_gdf | Processo no GDF da Licitação | anotar somente o código numérico
