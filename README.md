@@ -98,25 +98,26 @@ Em seguida, para ganhar tempo, marcamos (anotamos) os dois termos nas publicaç�
 
 Depois disso, as demais entidades relacionadas ao ato de "Extrato de Contrato" devem ser anotadas. Veja como fica a anotação dessas publicações aos poucos:
 
-![alt text](imagens/anotacao1.png "Rótulo selecionado")
+![alt text](imagens/anotacao1.png "Anotando entidades...")
 
-![alt text](imagens/anotacao2.png "Rótulo selecionado")
+![alt text](imagens/anotacao2.png "Anotando entidades...")
 
-![alt text](imagens/anotacao3.png "Rótulo selecionado")
+Após anotar as entidades, é necessário anotar o texto da publicação completa utilizando uma entidade. No caso de exemplo nesse tutorial, a entidade "EXTRATO_CONTRATO" deve ser selecionada no painel de Entidades e toda a publicação (e suas entidades) devem ser rotuladas. Uma tela pop-up irá aparecer, pois já existem anotações no texto selecionado. Nessa tela, escolha a opção "Create New Annotation". Finalmente, temos as duas publicações inteiramente rotuladas:
 
-Outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
+![alt text](imagens/anotacao3.png "Final")
 
-Caso tenha feito uma anotação incorreta e queira apagá-la, selecione, através dos atalhos de teclado, a anotação e, em seguida, aperte "R". Esses atalhos não são fixos e podem ser alterados na aba "Shortcuts".
+**EXTRA:** outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
+
+Caso tenha feito uma anotação incorreta e queira apagá-la, posicione o mouse sobre o termo ou frase com o label incorreto e clique com o botão direito do mouse. Outra possibilidade é selecionar a anotação, por meio dos atalhos de teclado e, em seguida, apertar "R". Esses atalhos não são fixos e podem ser alterados na aba "Shortcuts".
 
 ![alt text](imagens/shortcuts-aba.png "Aba de atalhos")
 
 ![alt text](imagens/shortcuts.png "Atalhos")
 
-Após anotar as entidades do ato, é necessário anotar o ato completo. Para isso, escolha o rótulo do ato na aba esquerda e selecione o texto correspondente. Uma tela pop-up irá aparecer, pois já existem anotações no texto selecionado. Nessa tela, escolha a opção "Create New Annotation".
+
 
 ![alt text](imagens/popup.PNG "Tela para selecionar nova anotação")
 
-![alt text](imagens/ato.PNG "Ato anotado com suas entidades")
 
 Por fim, quando todo o documento estiver pronto, clique em "DONE".
 
