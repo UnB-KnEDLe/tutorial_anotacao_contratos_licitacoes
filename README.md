@@ -102,9 +102,33 @@ Depois disso, as demais entidades relacionadas ao ato de "Extrato de Contrato" d
 
 ![alt text](imagens/anotacao2.png "Anotando entidades...")
 
-Após anotar as entidades, é necessário anotar o texto da publicação completa utilizando uma entidade. No caso de exemplo nesse tutorial, a entidade "EXTRATO_CONTRATO" deve ser selecionada no painel de Entidades e toda a publicação (e suas entidades) devem ser rotuladas. Uma tela pop-up irá aparecer, pois já existem anotações no texto selecionado. Nessa tela, escolha a opção "Create New Annotation". Finalmente, temos as duas publicações inteiramente rotuladas:
+Após anotar as entidades, é necessário anotar o texto da publicação completa utilizando uma entidade. No caso de exemplo nesse tutorial, a entidade "EXTRATO_CONTRATO" deve ser selecionada no painel de Entidades e toda a publicação (e suas entidades) devem ser rotuladas.
+
+![alt text](imagens/entidades1.png "Finalização das entidades como menores")
+
+Selecione todo o texto da publicação associada ao ato de extrato. Observe que essa marcação sobrepõe às demais entidades, que são consideradas **menores**:
+
+![alt text](imagens/entidades2.png "Seleção da publicação completa")
+
+Uma tela pop-up irá aparecer, pois já existem anotações no texto selecionado. Nessa tela, escolha a opção "Create New Annotation". Finalmente, temos a publicação inteiramente rotulada:
+
+![alt text](imagens/entidades3.png "Janela Pop-Up")
+
+Por fim, temos toda a publicação corretamente anotada:
+
+![alt text](imagens/entidades4.png "Finalização das entidades como menores")
+
+Finalizando a anotação para a publicação seguinte, temos como resultado final:
 
 ![alt text](imagens/anotacao3.png "Final")
+
+Para finalizar o processo de anotação desse documento, você deve anotar todas as publicações e, por isso, o processo aqui descrito deve ser repetido. Por fim, quando todo o documento estiver com as publicações anotadas, clique em "DONE".
+
+![alt text](imagens/done.png "Documento pronto")
+
+Retorne para a lista de documentos e observe que o documento recém-anotado por você está marcado como anotado na coluna "Done":
+
+![alt text](imagens/finish.png "Retorno à lista de documentos")
 
 **EXTRA:** outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
 
@@ -114,11 +138,3 @@ Caso tenha feito uma anotação incorreta e queira apagá-la, posicione o mouse 
 
 ![alt text](imagens/shortcuts.png "Atalhos")
 
-
-
-![alt text](imagens/popup.PNG "Tela para selecionar nova anotação")
-
-
-Por fim, quando todo o documento estiver pronto, clique em "DONE".
-
-![alt text](imagens/done.PNG "Documento pronto")
