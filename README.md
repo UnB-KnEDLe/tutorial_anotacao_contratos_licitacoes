@@ -88,17 +88,13 @@ Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTR
 
 Podemos ver na imagem acima que nesse trecho do documento, existem duas publicações relaciondas com ato de "Extrato de Contrato". O NidoTat funciona assim: selecionamos uma entidade na lista de entidade utilizando o menu dropdown ou o teclado, e em seguida, selecionamos o termo ou a sentença que corresponde à entidade selecionada.
 
-Suponha que queiramos anotar a entidade "Processo GDF" nas publicações recentemente encontradas. Podemos selecionar no menu drop down a entidade "processo_gdf" (veja a coluna labels no tutorial específico do Ato de "Extrato de Contrato") ou apertar a tecla **0** no teclado, pois é o número inteiro associado à essa entidade.
+Suponha que queiramos anotar a entidade "Processo GDF" nas publicações recentemente encontradas. Podemos selecionar no menu drop down, por meio do mouse, a entidade "processo_gdf" (veja a coluna labels no tutorial específico do Ato de "Extrato de Contrato") ou apertar a tecla **0** no teclado, pois é o número inteiro associado à essa entidade. Repare na imagem abaixo que as entidades em negrito estão ativadas e para selecionar entidades associadas a números inteiros entre *10* e *17*, basta apertar **Ctrl** - as entidades em negrito são aquelas ativadas para seleção pelo teclado:
 
 ![alt text](imagens/menu_entidades.png "Uso do Teclado para Seleção de Entidades")
 
-Em seguida, no documento, para ganhar tempo, marcamos (anotamos) os dois termos nas publicações associadas a "Processo GDF": Ao passarmos o mouse sobre a entidade anotada, vai aparecer uma janela mostrando isso:
+Em seguida, para ganhar tempo, marcamos (anotamos) os dois termos nas publicações associadas a "Processo GDF":
 
 ![alt text](imagens/anotacao_processo.png "Anotação da Entidade Processo GDF")
-
-Observe que qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
-
-![alt text](imagens/ctrlf.png "Busca Global")
 
 Após isso, as entidades serão anotadas. Se existirem poucos atos do tipo escolhido no documento, 20 ou menos, é recomendado anotar uma entidade por vez, ou seja, anote todos os nomes de servidores do documento,  todas as matrículas do documento e assim por diante. Caso haja muitos atos, é recomentado anotar as entidades por parágrafo.
 
