@@ -70,7 +70,7 @@ Antes de começar a fazer a anotação em si, devemos fazer a configuração do 
 
 ![alt text](imagens/painel1.png "Tela de anotação de um documento")
 
-Para facilitar a escolha das entidades a serem anotadas no texto, clique na aba "Filter" e marque as entidades associadas aos atos que você está anotando. Por exemplo, na tela abaixo, as entidades relacionadas aos atos de "Extrato de Contrato" foram selecionadas. No final da tela, clique em "Save" (láááá embaixo da tela). :
+Para facilitar a escolha das entidades a serem anotadas no texto, clique na aba "Filter" e marque as entidades associadas ao ato que você está anotando. Por exemplo, na tela abaixo, as entidades relacionadas ao ato de "Extrato de Contrato" foram selecionadas. No final da tela, clique em "Save" (láááá embaixo da tela). :
 
 ![alt text](imagens/filtragem.png "Seleção de Entidades")
 
