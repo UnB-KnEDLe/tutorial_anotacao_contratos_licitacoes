@@ -130,7 +130,13 @@ Retorne para a lista de documentos e observe que o documento recém-anotado por 
 
 ![alt text](imagens/finish.png "Retorno à lista de documentos")
 
-**EXTRA:** outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
+**REPITA** esse processo de anotação para os demais documentos.
+
+### EXTRA: Anotação exclusivamente pelo teclado
+
+Outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
+
+### EXTRA: Errei uma anotação, tem como corrigir? 
 
 Caso tenha feito uma anotação incorreta e queira apagá-la, posicione o mouse sobre o termo ou frase com o label incorreto e clique com o botão direito do mouse. Outra possibilidade é selecionar a anotação, por meio dos atalhos de teclado e, em seguida, apertar "R". Esses atalhos não são fixos e podem ser alterados na aba "Shortcuts".
 
