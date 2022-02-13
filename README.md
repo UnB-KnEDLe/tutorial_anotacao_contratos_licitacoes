@@ -92,26 +92,21 @@ Suponha que queiramos anotar a entidade "Processo GDF" nas publicações recente
 
 ![alt text](imagens/menu_entidades.png "Uso do Teclado para Seleção de Entidades")
 
-Em seguida, para ganhar tempo, marcamos (anotamos) os dois termos nas publicações associadas a "Processo GDF":
+Em seguida, para ganhar tempo, marcamos (anotamos) os dois termos nas publicações associadas a "Processo GDF" utilizando o mouse. Assim, posicionamos o cursor no primeiro caractere do termo e arrastamos o mouse até último caractere desse termo sempre considerando a entidade em anotação. Ao final, todo o texto marcado ficará colorido e rotulado com o label selecionado "processo_gdf". No exemplo abaixo, veja como fica:
 
 ![alt text](imagens/anotacao_processo.png "Anotação da Entidade Processo GDF")
 
-Após isso, as entidades serão anotadas. Se existirem poucos atos do tipo escolhido no documento, 20 ou menos, é recomendado anotar uma entidade por vez, ou seja, anote todos os nomes de servidores do documento,  todas as matrículas do documento e assim por diante. Caso haja muitos atos, é recomentado anotar as entidades por parágrafo.
+Depois disso, as demais entidades relacionadas ao ato de "Extrato de Contrato" devem ser anotadas. Veja como fica a anotação dessas publicações aos poucos:
 
+![alt text](imagens/anotacao1.png "Rótulo selecionado")
 
-Então, com o mouse, selecione o texto correspondente a esse rótulo.
+![alt text](imagens/anotacao2.png "Rótulo selecionado")
 
-![alt text](imagens/rotulo.png "Rótulo selecionado")
-
-![alt text](imagens/entidade-1.PNG "Texto selecioando e entidade anotada")
-
-O texto selecionado ficará grifado com a cor correspondente ao rótulo escolhido.
+![alt text](imagens/anotacao3.png "Rótulo selecionado")
 
 Outra forma de anotar as entidades é através de atalhos do teclado. Selecione o parágrafo que contém a entidade e, para percorrer as palavras, aperte "D" para ir uma palavra para frente, "A" para ir uma palavra para trás, "S" para ir algumas palavras para frente e "W" para ir algumas palavras para trás. Para ir um caractere para frente ou para trás, aperte "E" e "Q", respectivamente. Para selecionar um conjunto de palavras, aperte "SHIFT" e os caracteres listados anteriormente.
 
-Caso tenha feito uma anotação incorreta e queira apagá-la, selecione, através dos atalhos de teclado, a anotação e, em seguida, aperte "R".
-
-Esses atalhos não são fixos e podem ser alterados na aba "Shortcuts".
+Caso tenha feito uma anotação incorreta e queira apagá-la, selecione, através dos atalhos de teclado, a anotação e, em seguida, aperte "R". Esses atalhos não são fixos e podem ser alterados na aba "Shortcuts".
 
 ![alt text](imagens/shortcuts-aba.png "Aba de atalhos")
 
