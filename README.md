@@ -48,7 +48,7 @@ A anotação dos documentos do DODF será feita a nível de atos de entidades. O
 
 Primeiramente, você deve pegar sua URL para acesso ao NidoTat na planilha que está disponível na página da disciplina Aprender3. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
 
-Ao acessar a URL, o anotador é direcionado para a página de perfil de usuário do NidoTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
+Ao acessar a URL, você será redirecionado para a página de perfil de usuário do NidoTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
 
 ![alt text](imagens/profile.png "Perfil de usuário")
 
@@ -56,17 +56,21 @@ Primeiramente, acesse a aba "Projects" e encontre o projeto atualmente em fase d
 
 ![alt text](imagens/projects.png "Projetos")
 
-Para acessar os documentos a serem anotados, basta clicar em "Projects" e, em seguida, no projeto referente ao documento desejado.
+Para acessar os documentos a serem anotados, basta clicar em "Projects" e você verá a seguint tela:
 
 ![alt text](imagens/documents.png "Documentos a serem anotados e revisados")
 
-Os rótulos usados para a anotação estão disponíveis na aba "Types".
+Os rótulos empregados no processo de anotação estão disponíveis na aba "Types".
 
 ![alt text](imagens/labels.png "Rótulos dos atos e entidades")
 
 ### 2) Configuração do ambiente
 
-Para fazer a anotação em si, escolha qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
+Antes de começar a fazer a anotação em si, devemos fazer a configuração do ambiente de anotação. Primeiramente, você deve acessar um dos documentos a serem anotados para iniciar tal configuração. Você verá a seguinte tela:
+
+![alt text](imagens/painel1.png "Painel Principal")
+
+qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
 
 ![alt text](imagens/labels2.png "Entidades")
 
