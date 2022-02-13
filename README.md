@@ -42,34 +42,43 @@ A anotação dos documentos do DODF será feita a nível de atos de entidades. O
 *   [Extrato de Contrato](extrato_contrato/README.md)
 *   [Extrato de Convênio](extrato_convenio/README.md)
 
+## Anotação Passo-a-passo
 
-Vamos começar!
+### 1) Pegue sua URL de acesso ao NidoTat
 
-Primeiramente, você deve pegar sua URL para acesso ao NidoTat. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
+Primeiramente, você deve pegar sua URL para acesso ao NidoTat na planilha que está disponível na página da disciplina Aprender3. Com ela, é possível acessar os projetos e os documentos a serem anotados, portanto, é importante salvá-la em um lugar em que possa ser acessada posteriormente.
 
 Ao acessar a URL, o anotador é direcionado para a página de perfil de usuário do NidoTat, em que é possível modificar seu nome de usuário e enviar a URL de acesso por e-mail.
 
-![alt text](imagens/profile.PNG "Perfil de usuário")
+![alt text](imagens/profile.png "Perfil de usuário")
+
+Primeiramente, acesse a aba "Projects" e encontre o projeto atualmente em fase de anotação, que sempre será definido pelo professor durante a disciplina.
+
+![alt text](imagens/projects.png "Projetos")
 
 Para acessar os documentos a serem anotados, basta clicar em "Projects" e, em seguida, no projeto referente ao documento desejado.
 
-![alt text](imagens/project.PNG "Projetos")
+![alt text](imagens/documents.png "Documentos a serem anotados e revisados")
 
-Os rótulos usados para a anotação estão diponíveis na aba "Types".
+Os rótulos usados para a anotação estão disponíveis na aba "Types".
 
-![alt text](imagens/types.PNG "Rótulos dos atos e entidades")
+![alt text](imagens/labels.png "Rótulos dos atos e entidades")
 
-Vamos começar a anotar!
-
-Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Este tutorial mostra a anotação de um ato de exoneração como exemplo, então será pesquisada a palavra "exonerar". A pesquisa também indicará quantos atos desse tipo existem no documento.
-
-![alt text](imagens/ctrlF.PNG "Busca Global")
-
-Após isso, as entidades serão anotadas. Se existirem poucos atos do tipo escolhido no documento, 20 ou menos, é recomendado anotar uma entidade por vez, ou seja, anote todos os nomes de servidores do documento,  todas as matrículas do documento e assim por diante. Caso haja muitos atos, é recomentado anotar as entidades por parágrafo.
+### 2) Configuração do ambiente
 
 Para fazer a anotação em si, escolha qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
 
-![alt text](imagens/entidades-tec.png "Entidades")
+![alt text](imagens/labels2.png "Entidades")
+
+
+### 3) Começando a anotação
+
+Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Este tutorial mostra a anotação de um ato de exoneração como exemplo, então será pesquisada a palavra "exonerar". A pesquisa também indicará quantos atos desse tipo existem no documento.
+
+![alt text](imagens/ctrlF.png "Busca Global")
+
+Após isso, as entidades serão anotadas. Se existirem poucos atos do tipo escolhido no documento, 20 ou menos, é recomendado anotar uma entidade por vez, ou seja, anote todos os nomes de servidores do documento,  todas as matrículas do documento e assim por diante. Caso haja muitos atos, é recomentado anotar as entidades por parágrafo.
+
 
 Então, com o mouse, selecione o texto correspondente a esse rótulo.
 
@@ -94,16 +103,6 @@ Após anotar as entidades do ato, é necessário anotar o ato completo. Para iss
 ![alt text](imagens/popup.PNG "Tela para selecionar nova anotação")
 
 ![alt text](imagens/ato.PNG "Ato anotado com suas entidades")
-
-Quando os atos e as entidade estiverem anotados, é necessário criar as relações, lembrando que a relação é feita entre o ato e suas respectivas entidades, nunca entre atos. Para isso, selecione o texto que contém as entidades a serem relacionadas, assim que a janela pop-up aparecer, selecione as entidades e o ato que fará parte da relação e aperte em "Add to Relation".
-
-![alt text](imagens/relacao-types.png "Selecionar as entidades e o ato que farão parte da relação")
-
-![alt text](imagens/relacao-1.PNG "Criar a relação")
-
-![alt text](imagens/relacao-2.PNG "Relação pronta")
-
-Da mesma forma que para anotação de entidades, existem atalhos de teclado para criar relações. Selecione o trecho de texto que contém as anotações e aperte em "" pra criar a relação.
 
 Por fim, quando todo o documento estiver pronto, clique em "DONE".
 
