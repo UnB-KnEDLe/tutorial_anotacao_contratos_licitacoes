@@ -82,7 +82,7 @@ Pronto, já podemos começar a anotar o documento no painel que está com fundo 
 
 ### 3) Começando a anotação
 
-Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Aqui vamos mostrar a anotação de uma publicação relacionada a um ato de "Extrato de Contrato". Assim, seguindo a estratégia proposta para encontrar atos de "Extrato de Contrato", vamos fazer a busca pelo primeiro termo sugerido "Extrato de Contrato". A pesquisa também indicará quantos atos desse tipo existem no documento.
+Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Aqui vamos mostrar a anotação de uma publicação relacionada a um ato de "Extrato de Contrato". Assim, seguindo a estratégia proposta para encontrar atos de "Extrato de Contrato", vamos fazer a busca pelo primeiro termo sugerido "Extrato do Contrato". A pesquisa também indicará quantos atos desse tipo existem no documento.
 
 ![alt text](imagens/ctrlf.png "Busca Global")
 
