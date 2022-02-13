@@ -66,20 +66,27 @@ Os rótulos empregados no processo de anotação estão disponíveis na aba "Typ
 
 ### 2) Configuração do ambiente
 
-Antes de começar a fazer a anotação em si, devemos fazer a configuração do ambiente de anotação. Primeiramente, você deve acessar um dos documentos a serem anotados para iniciar tal configuração. Você verá a seguinte tela:
+Antes de começar a fazer a anotação em si, devemos fazer a configuração do ambiente de anotação. Primeiramente, você deve acessar um dos documentos a serem anotados para iniciar tal configuração. Você verá a seguinte tela que é basicamente composta por três paineis:
 
-![alt text](imagens/painel1.png "Painel Principal")
+![alt text](imagens/painel1.png "Tela de anotação de um documento")
 
-qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
+Para facilitar a escolha das entidades a serem anotadas no texto, clique na aba "Filter" e marque as entidades associadas aos atos que você está anotando. Por exemplo, na tela abaixo, as entidades relacionadas aos atos de "Extrato de Contrato" foram selecionadas. No final da tela, clique em "Save" (láááá embaixo da tela):
 
-![alt text](imagens/labels2.png "Entidades")
+![alt text](imagens/filtragem.png "Seleção de Entidades")
 
+voltando para a tela principal de anotação de documentos, você verá as entidades que você selecionou da seguinte maneira: *i - a_i*. O número inteiro *i* é utilizado para se fazer a seleção da i-ésima entidade por meio do teclado (o que vai facilitar muito no processo de anotação).
+
+![alt text](imagens/labels2.png "Painel de Entidades Atualizado")
+
+Pronto, já podemos começar a anotar o documento no painel que está com fundo branco!
 
 ### 3) Começando a anotação
 
-Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Este tutorial mostra a anotação de um ato de exoneração como exemplo, então será pesquisada a palavra "exonerar". A pesquisa também indicará quantos atos desse tipo existem no documento.
+Para encontrar os atos a serem anotados no documento, pesquise, pressionando CTRL+F, a palavra chave do ato em questão. Aqui vamos mostrar a anotação de uma publicação relacionada a um ato de "Extrato de Contrato". Assim, seguindo a estratégia proposta para encontrar atos de "Extrato de Contrato", vamos fazer a busca pelo primeiro termo sugerido "Extrato de Contrato". A pesquisa também indicará quantos atos desse tipo existem no documento.
 
-![alt text](imagens/ctrlF.png "Busca Global")
+![alt text](imagens/ctrlf.png "Busca Global")
+
+qual a entidade deve ser anotada e selecione seu rótulo na aba esquerda da tela. Para selecionar a entidade, aperte a tecla com o número correspondente da entidade, 0 a 9. Caso a entidade não esteja nessa faixa, aperte "CTRL" para mudar a faixa de valores. A faixa escolhida será apresentada em negrito.
 
 Após isso, as entidades serão anotadas. Se existirem poucos atos do tipo escolhido no documento, 20 ou menos, é recomendado anotar uma entidade por vez, ou seja, anote todos os nomes de servidores do documento,  todas as matrículas do documento e assim por diante. Caso haja muitos atos, é recomentado anotar as entidades por parágrafo.
 
