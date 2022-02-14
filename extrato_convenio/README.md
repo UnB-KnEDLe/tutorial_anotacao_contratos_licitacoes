@@ -27,6 +27,7 @@ ID | Label | Entidade (descrição)  | Observação
 (14) | natureza_despesa | Natureza da Despesa (ND) |	aparece em Dotação Orçamentária. Anotar somente o número
 (15) | nota_empenho | Nota de Empenho | anotar somente o código alfanumérico
 (16) | nome_responsavel | Nome do Responsável |	-
+(17) | EXTRATO_CONVENIO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades 
 
 
 ## Exemplos de atos de extrato de convênio
