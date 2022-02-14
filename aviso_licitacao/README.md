@@ -30,7 +30,7 @@ ID | Label | Entidade (descrição)  | Observação
 (9) | sistema_compras | Sistema de Compras Utilizado | Caso apareça na publicação, marcar o nome completo, como: "ComprasNet", "Licitações-e (Banco do Brasil)", "ComprasDF", "e-ComprasDF". Se aparecer o site, também marcar a URL completa.
 (10) | codigo_licitacao_sistema_compras | Código da Licitação no Sistema de Compras Utilizada | Marcar somente os números após a palavra "UASG"
 (11) | nome_responsavel | Nome do Responsável pelo Ato | -
-
+(12) | AVISO_LICITACAO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 ## Exemplos
 
