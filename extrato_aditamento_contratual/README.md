@@ -18,6 +18,7 @@ ID | Label | Entidade (descrição)  | Observação
 (5) | processo_gdf | Processo no GDF | anotar apenas os números
 (6) | data_escrito | Data em que o Ato foi Escrito | -
 (7) | nome_responsavel | Nome do Responsável pela Publicação do Ato | -
+(8) | EXTRATO_ADITAMENTO_CONTRATUAL | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 
 ## Exemplos de atos de extrato de aditamento contratual
