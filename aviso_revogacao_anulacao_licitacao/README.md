@@ -18,6 +18,7 @@ ID | Label | Entidade (descrição)  | Observação
 (5) | processo_gdf | Processo no GDF da Licitação | anotar somente o código numérico
 (6) | data_escrito | Data em que Licitação foi Escrita | -
 (7) | nome_responsavel | Nome do Responsável pelo Ato | -
+(8) | AVISO_ANUL_REV_LICITACAO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 ### Exemplos de atos de aviso de revogação/anulação de licitação
 
