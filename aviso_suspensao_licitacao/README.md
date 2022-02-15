@@ -2,7 +2,7 @@
 
 ## Como encontrar um ato de "Aviso de Suspensão de Licitação"?
 
-Primeiro é necessário verificar se existem atos de "Aviso de Suspensão" na Seção III do Diário Oficial do Distrito Federal, bastando pressionar CTRL+F e pesquisar pelos termos "Aviso de Suspensão de Licitação". Após encontrar um ou mais blocos relacionados a "Aviso de Suspensão", deve-se fazer a correspondência de cada bloco de texto em relação a um dos padrões definidos a seguir. Anote as entidades conforme os labels descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Aviso de Suspensão" na Seção III do Diário Oficial do Distrito Federal, bastando pressionar CTRL+F e pesquisar pelos termos "Aviso de Suspensão" e "Aviso de Suspensão de Licitação". Após encontrar um ou mais blocos relacionados a "Aviso de Suspensão", deve-se fazer a correspondência de cada bloco de texto em relação a um dos padrões definidos a seguir. Anote as entidades conforme os labels descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
@@ -37,10 +37,10 @@ A Pregoeira da Central de Compras/DAQ/SUAG, da **Secretaria de Estado de Saúde 
 AVISO DE SUSPENSÃO<br>
 LIC SERVIÇOS **CEB DISTRIBUIÇÃO[1]** Nº **01-S01290/2020- ELETRÔNICO[2]** Processo: **00310-00004217/2020-74[4]**. Objeto: **CONTRATAÇÃO DE ADMINISTRAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA, COM GERENCIAMENTO COMPARTILHADO DA FROTA DE VEÍCULOS E MÁQUINAS DA CEB DISTRIBUIÇÃO, ATRAVÉS DE SISTEMA INFORMATIZADO, ALÉM DO FORNECIMENTO DE PEÇAS, COMPONENTES E ACESSÓRIOS E OUTROS SERVIÇOS, CONFORME PROJETO BÁSICO Nº 002/2020-GRTR[5]**. Orçamento estimado: sigiloso. A CEB DISTRIBUIÇÃO S.A, por sua Comissão Permanente de Licitação - CPL, torna público que está suspensa a abertura da Licitação em epígrafe.<br>
 Brasília/DF, 06 de janeiro de 2021.<br>
-**MARCELO ANDRADE CRUZY[6]**
+**MARCELO ANDRADE CRUZY[7]**
 
 AVISO DE SUSPENSÃO<br>
 **PREGÃO ELETRÔNICO[3]** Nº **01/2022[2]** – UASG 926167<br>
 Processo: **00095-00000663/2021-09[4]**. O Ordenador de Despesas no uso de suas atribuições informa a suspensão do **Pregão Eletrônico[3]** **01/2022[2]**, objeto: **escolha da proposta mais vantajosa para a contratação de serviços de intermediação, administração e gerenciamento informatizados e integrados de gestão de abastecimentos de combustíveis da frota auxiliar da Sociedade de Transportes Coletivos de Brasília – TCB, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos[5]**. Em face das impugnações recebidas, para nova análise e adequação do Edital e seus anexos.<br>
-**JOÃO RAIMUNDO DE OLIVEIRA[6]**<br>
+**JOÃO RAIMUNDO DE OLIVEIRA[7]**<br>
 Diretor-Presidente
