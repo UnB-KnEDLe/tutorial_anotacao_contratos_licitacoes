@@ -13,15 +13,15 @@ Essa lista compreende nomes de Secretarias, Entidades e Órgãos do GDF.
 - Casa Civil
 - Casa Militar
 - Controladoria-Geral do DF (Controladoria)
-- Corpo de Bombeiros Militar
+- Corpo de Bombeiros Militar (CBMDF)
 - Corregedoria-Geral do Distrito Federal
 - Defensoria Pública do Distrito Federal
 - Escritório de Assuntos Internacionais
-- Polícia Civil
-- Polícia Militar
+- Polícia Civil (PCDF)
+- Polícia Militar (PMDF)
 - Procuradoria Geral do DF (Procuradoria)
-- Tribunal de Contas do Distrito Federal
-- Tribunal de Justiça do Distrito Federal e dos Territórios
+- Tribunal de Contas do Distrito Federal (TCDF)
+- Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)
 - Ministério Público do Distrito Federal e dos Territórios<br><br>
 
 - Arquivo Público
