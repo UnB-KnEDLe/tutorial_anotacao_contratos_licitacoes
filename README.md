@@ -33,7 +33,7 @@ Adicionar relação | v
 
 Outra melhoria que vale a pena mencionar é a possibilidade de excluir anotações usando o botão direito do mouse.
 
-A anotação dos documentos do DODF será feita a nível de atos de entidades. Os atos as serem anotados estão apresentados a seguir e as respectivas entidades estão nos tutoriais individuais dos atos.
+A anotação dos documentos do DODF será feita a nível de atos de entidades. Os atos a serem anotados estão apresentados a seguir e as respectivas entidades estão nos tutoriais individuais dos atos.
 
 *   [Aviso de Licitação](aviso_licitacao/README.md)
 *   [Aviso de Revogação/Anulação de Licitação](aviso_revogacao_anulacao_licitacao/README.md)
