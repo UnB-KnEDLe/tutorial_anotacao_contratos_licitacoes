@@ -12,7 +12,7 @@ As entidades que deverão ser identificadas são:
 ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
 (1) | numero_contrato | Número do Contrato | anotar somente o código alfanumérico
-(2) | orgao_contratante | Nome do Órgão Contratante | Para encontrar e marcar o órgão, consulte a lista [aqui](../listagem_orgaos.MD)
+(2) | orgao_contratante | Nome do Órgão Contratante | Para encontrar e marcar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (3) | cnpj_orgao_contratante | CNPJ do Órgão Contratante | anotar somente o número
 (4) | entidade_contratada | Nome da Entidade Contratada | anotar somente o número
 (5) | cnpj_entidade_contratada | CNPJ da Entidade Contratada | anotar somente o número
