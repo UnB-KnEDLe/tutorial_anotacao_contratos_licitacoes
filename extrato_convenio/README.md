@@ -3,7 +3,7 @@
 
 ## Como encontrar um ato de "Extrato de Convênio"?
 
-Primeiro é necessário verificar se existem atos de "Extrato de Convênio" na Seção III no DODF, bastando pressionar CTRL+F e pesquisar pelos termos "Extrato de Convênio". Após encontrar uma ou mais publicações relacionadas, deve-se fazer marcar as entidades conforme os labels descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Extrato de Convênio" na Seção III no DODF, bastando pressionar CTRL+F e pesquisar pelos termos "Extrato de Convênio" e "Extrato do Convênio". Após encontrar uma ou mais publicações relacionadas, deve-se fazer marcar as entidades conforme os labels descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
@@ -26,7 +26,7 @@ ID | Label | Entidade (descrição)  | Observação
 (13) | fonte_recurso | Fonte de Recurso (FR) |	aparece em Dotação Orçamentária. Anotar somente o número
 (14) | natureza_despesa | Natureza da Despesa (ND) |	aparece em Dotação Orçamentária. Anotar somente o número
 (15) | nota_empenho | Nota de Empenho | anotar somente o código alfanumérico
-(16) | nome_responsavel | Nome do Responsável |	-
+(16) | nome_responsavel | Nome do Responsável pela Publicação do Ato |	Não é nome de nenhum dos signatários das partes (órgão e entidade)
 (17) | EXTRATO_CONVENIO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades 
 
 
