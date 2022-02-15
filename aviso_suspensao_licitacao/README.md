@@ -16,7 +16,7 @@ ID | Label | Entidade (descrição)  | Observação
 (4) | processo_gdf | Processo no GDF | anotar somente o código numérico
 (5) | objeto_licitacao | Objeto da Licitação | anotar toda a sentença do objeto até o ponto final "." ou ponto-e-vírgula ";"
 (6) | decisao_tcdf | Decisão do TCDF que determinou a suspensão | anotação obrigatória quando é mencionada
-(7) | nome_responsavel | Nome do Responsável pelo Ato | -
+(7) | nome_responsavel | Nome do Responsável pela Publicação do Ato |	Não é nome de nenhum dos signatários das partes (órgão e entidade)
 (8) | AVISO_SUSPENSAO_LICITACAO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 ### Exemplos de atos de aviso de suspensão de licitação
