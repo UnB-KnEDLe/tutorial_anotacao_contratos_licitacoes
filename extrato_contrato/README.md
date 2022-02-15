@@ -3,7 +3,7 @@
 
 ## Como encontrar um ato de "Extrato de Contrato"?
 
-Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato" e "Extrato Contratual". Após encontrar uma ou mais publicaçes relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato", "Extrato do Termo do Contrato" e "Extrato Contratual". Após encontrar uma ou mais publicaçes relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
@@ -26,7 +26,7 @@ ID | Label | Entidade (descrição)  | Observação
 (13) | fonte_recurso | Fonte de Recurso (FR) |	aparece em Dotação Orçamentária. Anotar somente o número
 (14) | natureza_despesa | Natureza da Despesa (ND) |	aparece em Dotação Orçamentária. Anotar somente o número
 (15) | nota_empenho | Nota de Empenho (NE) | Anotar somente o código alfanumérico
-(16) | nome_responsavel | Nome do Responsável |	-
+(16) | nome_responsavel | Nome do Responsável pela Publicação do Ato |	Não é nome de nenhum dos signatários das partes (órgão e entidade)
 (17) | EXTRATO_CONTRATO | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 
@@ -36,13 +36,13 @@ EXTRATO DO CONTRATO Nº **24/2006[1]**, NOS TERMOS DO PADRÃO 07/2002.<br>
 Processo: **050.001.077/2005[6]**. Partes: **Distrito Federal/Secretaria de Estado de Segurança Pública e Defesa Social[2]** e **Net Communications[4]**. Fundamentação Legal: Edital de Licitação na modalidade Pregão Presencial nº 736/2005 SUCOM/SEF e Anexo, Lei nº 10.520/2002, Proposta e Lei 8.666, de 21 de junho de 1993 e alterações posteriores. Objeto: **aquisição de 40 (quarenta) microcomputadores, placa mãe (motherboard), modelo AMD 2.2, marca TOPIS; 02 (dois) servidores de rede padrão Rack 19 POL, processadores Intel Pentium IV, marca Proventia[7]**. Do Valor: **171.000,00[8]**; Dotação Orçamentária: unidade orçamentária: **24101[11]**; programa de trabalho: **06181260034190001[12]**; natureza da despesa: **44.90.52[14]**; fonte de recurso: **100[13]**; Da Vigência: **a vigência do contrato será da data de sua assinatura até o término do período de garantia ofertado pela contratada, acrescido de 30 (trinta) dias referentes ao prazo estabelecido para a entrega dos aparelhos[9]**.; Data da Assinatura: **06 de março de 2006[10]**; Signatários: Pelo DISTRITO FEDERAL: ATHOS COSTA DE FARIA, na qualidade de Secretário de Estado de Segurança Pública e Defesa Social. PELA Contratada: ARY FREITAS PEREIRA, Procurador.<br><br><br>
 
 EXTRATO DO CONTRATO BRB Nº **291/2021[1]**<br>
-Locador: JUATUR - JUAZEIRO TURISMO LTDA. Modalidade: Dispensa de Licitação.<br>
-Objeto: **Locação de imóvel para a instalação de ponto de atendimento do BRB[5]**. Vigência: **12/01/2022 a 11/12/2026[9]**. Valor Total: R$**624.000,00[8]**. Gestor: Silas Campos Teixeira e Pelo **BRB: Dario Oswaldo Garcia Júnior[2]**; e pelo **Locador: Rafael Coelho Cunha[3]**. Processo: **041.001.551/2021[6]**. As despesas decorrentes do presente contrato correrão com base no orçamento de investimentos e dispêndios, natureza 4 - Dispêndio das Estatais e Fonte 1 - geração própria.<br>
-**Thiago H. M. dos Santos - Gerente de área[16]** e.e.<br><br><br>
+Locador: **JUATUR - JUAZEIRO TURISMO LTDA[4]**. Modalidade: Dispensa de Licitação.<br>
+Objeto: **Locação de imóvel para a instalação de ponto de atendimento do BRB[5]**. Vigência: **12/01/2022 a 11/12/2026[9]**. Valor Total: R$**624.000,00[8]**. Gestor: Silas Campos Teixeira e Pelo **BRB[2]**: Dario Oswaldo Garcia Júnior; e pelo Locador: Rafael Coelho Cunha. Processo: **041.001.551/2021[5]**. As despesas decorrentes do presente contrato correrão com base no orçamento de investimentos e dispêndios, natureza 4 - Dispêndio das Estatais e Fonte 1 - geração própria.<br>
+**Thiago H. M. dos Santos[16]** - Gerente de área e.e.<br><br><br>
 
 
 EXTRATO DO CONTRATO LISANDRO Nº **06/2019[1]**<br>
-Processo: **00391-00009221/2019-79[6]**. Partes: **IBRAM/DF[2]** X **LISANDRO TAVARES DE SOUSA EIRELI ME[4]**. Objeto: **O presente contrato objetiva a prestação de serviços gráficos de impressão, visando atender às necessidades da Unidade de Educação Ambiental do Instituto Brasília Ambiental[7]**. VALOR: O valor deste Contrato equivale a R$ **960,00[8]** (novecentos e sessenta reais), empenhado pela Nota de Empenho nº **2019NE00719[15]**, para atender as despesas contratuais durante o exercício de 2019. DOTAÇÃO ORÇAMENTÁRIA: PROGRAMA DE TRABALHO: **18.541.6210.4235.0002[12]**; FONTE DE RECURSOS: **100[14]**; CÓDIGO U.O. **21.208[11]**; NATUREZA DA DESPESA: **3.3.90.39[13]**; EVENTO: 400091; VIGÊNCIA: **O presente Contrato terá vigência desde a sua assinatura até 31/12/2019, podendo ser rescindido a qualquer momento e sem qualquer ônus para a Administração nos casos previstos no contrato[9]**. DATA DE ASSINATURA: **05/11/2019[10]**. SIGNATÁRIOS: Pelo IBRAM: EDSON GONÇALVES DUARTE, na qualidade de Presidente, e pela Contratada: CARLOS FERREIRA DO AMARAL FILHO, na qualidade de Representante Legal.<br><br><br>
+Processo: **00391-00009221/2019-79[6]**. Partes: **IBRAM/DF[2]** X **LISANDRO TAVARES DE SOUSA EIRELI ME[4]**. Objeto: **O presente contrato objetiva a prestação de serviços gráficos de impressão, visando atender às necessidades da Unidade de Educação Ambiental do Instituto Brasília Ambiental[7]**. VALOR: O valor deste Contrato equivale a R$ **960,00[8]** (novecentos e sessenta reais), empenhado pela Nota de Empenho nº **2019NE00719[15]**, para atender as despesas contratuais durante o exercício de 2019. DOTAÇÃO ORÇAMENTÁRIA: PROGRAMA DE TRABALHO: **18.541.6210.4235.0002[12]**; FONTE DE RECURSOS: **100[13]**; CÓDIGO U.O. **21.208[11]**; NATUREZA DA DESPESA: **3.3.90.39[14]**; EVENTO: 400091; VIGÊNCIA: **O presente Contrato terá vigência desde a sua assinatura até 31/12/2019, podendo ser rescindido a qualquer momento e sem qualquer ônus para a Administração nos casos previstos no contrato[9]**. DATA DE ASSINATURA: **05/11/2019[10]**. SIGNATÁRIOS: Pelo IBRAM: EDSON GONÇALVES DUARTE, na qualidade de Presidente, e pela Contratada: CARLOS FERREIRA DO AMARAL FILHO, na qualidade de Representante Legal.<br><br><br>
 
 
 EXTRATO DE CONTRATO<br>
