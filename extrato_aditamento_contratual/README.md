@@ -13,7 +13,7 @@ ID | Label | Entidade (descrição)  | Observação
 ------- | ------- | ------- | ------- 
 (1) | numero_termo_aditivo | Número do Termo Aditivo | Anotar os dígitos numéricos e/ou escrito por extenso. Por exemplo, "Oitavo Termo Aditivo"
 (2) | numero_contrato | Número do Contrato | anotar apenas os números
-(3) | orgao_contratante | Nome do Órgão ou Entidade Contratante | Para encontrar e marcar o órgão, consulte a lista aqui
+(3) | orgao_contratante | Nome do Órgão ou Entidade Contratante | Para encontrar e marcar o órgão, consulte a lista [aqui](../listagem_orgaos.md)
 (4) | objeto_aditamento_contratual | Objeto do Aditamento Contratual | Anotar todo o texto até encontrar o ponto final
 (5) | processo_gdf | Processo no GDF | anotar apenas os números
 (6) | data_escrito | Data em que o Ato foi Escrito | -
