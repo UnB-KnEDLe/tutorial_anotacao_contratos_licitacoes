@@ -17,7 +17,7 @@ ID | Label | Entidade (descrição)  | Observação
 (4) | objeto_aditamento_contratual | Objeto do Aditamento Contratual | Anotar todo o texto até encontrar o ponto final
 (5) | processo_gdf | Processo no GDF | anotar apenas os números
 (6) | data_escrito | Data em que o Ato foi Escrito | -
-(7) | nome_responsavel | Nome do Responsável pela Publicação do Ato  | Não é nome de nenhum dos signatários das partes (órgão e entidade)
+(7) | nome_responsavel | Nome do Responsável pela Publicação do Ato  | Não é nome de nenhum dos signatários das partes (órgão e entidade). Pode ser raro.
 (8) | EXTRATO_ADITAMENTO_CONTRATUAL | Publicação completa | anotar toda a publicação referente ao ato, envolvendo também as suas entidades
 
 
