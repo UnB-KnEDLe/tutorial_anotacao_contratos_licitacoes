@@ -61,7 +61,7 @@ Essa lista compreende nomes de Secretarias, Entidades e Órgãos do GDF.
 - Secretaria de Estado de CIDADES
 - Secretaria de Estado de CIÊNCIA, TECNOLOGIA E INOVAÇÃO
 - Secretaria de Estado de COMUNICAÇÃO
-- Secretaria de Estado de CULTURA E ECONOMIA CRIATIVA
+- Secretaria de Estado de CULTURA E ECONOMIA CRIATIVA (ou apenas Secretaria de Estado de Cultura)
 - Secretaria de DESENVOLVIMENTO ECONÔMICO (ou apenas Desenvolvimento Econômico)
 - Secretaria de ESTADO DE DESENVOLVIMENTO DA REGIÃO METROPOLITANA
 - Secretaria de DESENVOLVIMENTO SOCIAL
