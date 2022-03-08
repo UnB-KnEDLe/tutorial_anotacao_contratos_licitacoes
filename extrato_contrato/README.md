@@ -3,7 +3,7 @@
 
 ## Como encontrar um ato de "Extrato de Contrato"?
 
-Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato", "Extrato do Termo do Contrato", "Extrato de Instrumento Contratual" e "Extrato Contratual". Após encontrar uma ou mais publicaçes relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato", "Extrato do Termo do Contrato", "Extrato de Instrumento Contratual", "Extratos de Instrumentos Contratuais" e "Extrato Contratual". Após encontrar uma ou mais publicaçes relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
