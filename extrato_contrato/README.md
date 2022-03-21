@@ -3,7 +3,7 @@
 
 ## Como encontrar um ato de "Extrato de Contrato"?
 
-Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato", "Extrato do Termo do Contrato", "Extrato de Instrumento Contratual", "Extratos de Contrato", "Extratos de Contratos", "Extratos de Instrumentos Contratuais" e "Extrato Contratual". Após encontrar uma ou mais publicaçes relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Extrato de Contrato" no DODF, bastando pressionar CTRL+F e pesquisar separadamente pelos termos "Extrato de Contrato", "Extrato do Contrato", "Extrato do Termo do Contrato", "Extrato de Instrumento Contratual", "Extratos de Contrato", "Extratos de Contratos", "Extratos de Instrumentos Contratuais" e "Extrato Contratual". Após encontrar uma ou mais publicações relacionadas, deve-se marcar no texto as entidades conforme os labels e regras descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
@@ -37,7 +37,7 @@ Processo: **050.001.077/2005[6]**. Partes: **Distrito Federal/Secretaria de Esta
 
 EXTRATO DO CONTRATO BRB Nº **291/2021[1]**<br>
 Locador: **JUATUR - JUAZEIRO TURISMO LTDA[4]**. Modalidade: Dispensa de Licitação.<br>
-Objeto: **Locação de imóvel para a instalação de ponto de atendimento do BRB[5]**. Vigência: **12/01/2022 a 11/12/2026[9]**. Valor Total: R$**624.000,00[8]**. Gestor: Silas Campos Teixeira e Pelo **BRB[2]**: Dario Oswaldo Garcia Júnior; e pelo Locador: Rafael Coelho Cunha. Processo: **041.001.551/2021[5]**. As despesas decorrentes do presente contrato correrão com base no orçamento de investimentos e dispêndios, natureza 4 - Dispêndio das Estatais e Fonte 1 - geração própria.<br>
+Objeto: **Locação de imóvel para a instalação de ponto de atendimento do BRB[7]**. Vigência: **12/01/2022 a 11/12/2026[9]**. Valor Total: R$**624.000,00[8]**. Gestor: Silas Campos Teixeira e Pelo **BRB[2]**: Dario Oswaldo Garcia Júnior; e pelo Locador: Rafael Coelho Cunha. Processo: **041.001.551/2021[6]**. As despesas decorrentes do presente contrato correrão com base no orçamento de investimentos e dispêndios, natureza 4 - Dispêndio das Estatais e Fonte 1 - geração própria.<br>
 **Thiago H. M. dos Santos[16]** - Gerente de área e.e.<br><br><br>
 
 
