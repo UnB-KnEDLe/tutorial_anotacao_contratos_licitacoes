@@ -3,7 +3,7 @@
 
 ## Como encontrar um ato de "Extrato de Aditamento Contratual"?
 
-Primeiro é necessário verificar se existem atos de "Extrato de Aditamento Contratual" no DODF, bastando pressionar CTRL+F e pesquisar pelos termos "Aditivo". Após encontrar um ou mais blocos relacionados a Extrato de Aditamento Contratual, deve-se fazer a correspondência de cada bloco de texto em relação a um dos padrões definidos a seguir. Anote as entidades conforme os labels descritos na tabela a seguir.
+Primeiro é necessário verificar se existem atos de "Extrato de Aditamento Contratual" no DODF, bastando pressionar CTRL+F e pesquisar pelo termo "Aditivo" e verificar se no título da publicação (em maiúsculo) contém a palavra "Contrato" ou "Contratual". Após encontrar um ou mais blocos relacionados a Extrato de Aditamento Contratual, deve-se fazer a correspondência de cada bloco de texto em relação a um dos padrões definidos a seguir. Anote as entidades conforme os labels descritos na tabela a seguir.
 
 ## Tabela de entidades e padrões
 
