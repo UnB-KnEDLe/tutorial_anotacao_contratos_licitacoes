@@ -22,6 +22,7 @@ Essa lista compreende nomes de Secretarias, Entidades e Órgãos do GDF.
 - Polícia Militar (PMDF)
 - Procuradoria Geral do DF (Procuradoria)
 - Tribunal de Contas do Distrito Federal (TCDF)
+- Defesa Civil do Distrito Federal (Defesa Civil)
 - Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)<br><br>
 
 
